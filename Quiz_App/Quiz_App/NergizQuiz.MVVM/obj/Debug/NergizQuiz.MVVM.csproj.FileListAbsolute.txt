@@ -1,0 +1,6 @@
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.MVVM\bin\Debug\NergizQuiz.MVVM.dll
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.MVVM\bin\Debug\NergizQuiz.MVVM.pdb
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.MVVM\obj\Debug\NergizQuiz.MVVM.csprojAssemblyReference.cache
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.MVVM\obj\Debug\NergizQuiz.MVVM.csproj.CoreCompileInputs.cache
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.MVVM\obj\Debug\NergizQuiz.MVVM.dll
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.MVVM\obj\Debug\NergizQuiz.MVVM.pdb

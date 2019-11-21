@@ -1,0 +1,11 @@
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.Logic\bin\Debug\Data\level1.xml
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.Logic\bin\Debug\Data\level2.xml
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.Logic\bin\Debug\Data\level3.xml
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.Logic\bin\Debug\Data\level4.xml
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.Logic\bin\Debug\Data\level5.xml
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.Logic\bin\Debug\NergizQuiz.Logic.dll
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.Logic\bin\Debug\NergizQuiz.Logic.pdb
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.Logic\obj\Debug\NergizQuiz.Logic.csprojAssemblyReference.cache
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.Logic\obj\Debug\NergizQuiz.Logic.csproj.CoreCompileInputs.cache
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.Logic\obj\Debug\NergizQuiz.Logic.dll
+D:\it\C#\New folder\nergiz-quiz-master\NergizQuiz\NergizQuiz.Logic\obj\Debug\NergizQuiz.Logic.pdb
